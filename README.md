@@ -1,2 +1,2 @@
-# Prime-Numbers-Lab
-Prime Numbers Lab
+# Prime-Numbers-Program
+Prime Numbers Program
